@@ -1,0 +1,16 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="64" fill="#030712"/>
+  <rect x="96" y="96" width="1408" height="808" rx="40" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="142" y="146" width="370" height="52" rx="18" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="142" y="226" width="460" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="278" width="330" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="360" width="520" height="426" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="708" y="160" width="700" height="626" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="760" y="214" width="270" height="44" rx="16" fill="#22D3EE" fill-opacity="0.15"/>
+  <rect x="1050" y="214" width="300" height="44" rx="16" fill="#7C3AED" fill-opacity="0.15"/>
+  <rect x="760" y="290" width="520" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07"/>
+  <rect x="760" y="344" width="420" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="760" y="426" width="562" height="286" rx="28" fill="#111827"/>
+  <text x="146" y="192" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700">CV-YA</text>
+  <text x="146" y="252" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="22">Resume builder and profile publisher</text>
+</svg>

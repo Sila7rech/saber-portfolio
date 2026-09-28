@@ -1,0 +1,17 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="64" fill="#030712"/>
+  <rect x="96" y="96" width="1408" height="808" rx="40" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="142" y="146" width="388" height="58" rx="20" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="142" y="226" width="460" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="278" width="300" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="360" width="496" height="426" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="694" y="146" width="756" height="196" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="694" y="374" width="356" height="412" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="1078" y="374" width="372" height="412" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="748" y="220" width="226" height="24" rx="12" fill="#22D3EE" fill-opacity="0.18"/>
+  <rect x="748" y="270" width="520" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="748" y="420" width="286" height="24" rx="12" fill="#7C3AED" fill-opacity="0.18"/>
+  <circle cx="902" cy="618" r="78" fill="#22D3EE" fill-opacity="0.14"/>
+  <text x="146" y="202" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700">iStudent</text>
+  <text x="146" y="262" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="22">Student productivity hub</text>
+</svg>

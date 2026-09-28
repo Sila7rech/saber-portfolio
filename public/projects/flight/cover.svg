@@ -1,0 +1,16 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" rx="64" fill="#020617"/>
+  <rect x="96" y="96" width="1408" height="808" rx="40" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="142" y="150" width="420" height="54" rx="18" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="142" y="230" width="312" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="282" width="260" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="142" y="362" width="520" height="410" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="716" y="150" width="734" height="202" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="716" y="382" width="734" height="172" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="716" y="586" width="734" height="190" rx="32" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M786 486H1368" stroke="#22D3EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M842 256L1120 256" stroke="#7C3AED" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="996" cy="488" r="58" fill="#22D3EE" fill-opacity="0.16"/>
+  <text x="146" y="202" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700">Flight Reservation</text>
+  <text x="146" y="262" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="22">Travel booking system concept</text>
+</svg>

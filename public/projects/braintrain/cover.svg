@@ -1,0 +1,22 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" rx="64" fill="url(#bg)"/>
+  <rect x="96" y="96" width="1408" height="808" rx="40" fill="#0B1220" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="146" y="148" width="490" height="72" rx="24" fill="#7C3AED" fill-opacity="0.16"/>
+  <rect x="146" y="244" width="370" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="146" y="302" width="300" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="146" y="380" width="508" height="350" rx="32" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M190 642C246 578 300 552 362 552C424 552 483 582 548 646" stroke="#22D3EE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M190 694C252 656 308 638 356 638C414 638 472 652 548 688" stroke="#7C3AED" stroke-width="8" stroke-linecap="round"/>
+  <rect x="712" y="146" width="742" height="626" rx="32" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="875" cy="330" r="112" fill="#22D3EE" fill-opacity="0.12"/>
+  <circle cx="1120" cy="330" r="112" fill="#7C3AED" fill-opacity="0.12"/>
+  <circle cx="1360" cy="330" r="112" fill="#2563EB" fill-opacity="0.12"/>
+  <text x="146" y="202" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700">BrainTrain</text>
+  <text x="146" y="262" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="22">Adaptive learning dashboard</text>
+</svg>
